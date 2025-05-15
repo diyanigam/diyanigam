@@ -25,5 +25,8 @@ rd /s /q C:\
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/diyanigam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyanigam02@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diya_nigam) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@diyanigam02) 
 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 > sowwy if you fell for it =uwu=
